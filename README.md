@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Pedro Henrique</h1>
+<h1 align="center">Pedro Henrique</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pehenriqueoliv">
