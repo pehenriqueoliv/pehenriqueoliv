@@ -81,10 +81,10 @@ Primeira versão da API de controle financeiro. CRUD completo de usuários, cate
 
 ---
 
-### Estatísticas
+#### Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pehenriqueoliv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pehenriqueoliv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=percentile" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pehenriqueoliv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 </p>
 
