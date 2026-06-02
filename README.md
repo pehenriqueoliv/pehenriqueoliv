@@ -15,8 +15,6 @@
 
 Desenvolvedor back-end em formação, focado em **Java e Spring Boot**. Atualmente em busca da minha primeira oportunidade como dev júnior, com base sólida em construção de APIs REST, persistência relacional e infraestrutura moderna (Docker, AWS, observabilidade).
 
-Tenho experiência prévia em atendimento ao cliente e vendas no segmento de telecomunicações, onde aprendi a trabalhar com clientes B2B e ferramentas de CRM. Hoje, aplico essa mesma postura de resolução de problemas no desenvolvimento de software.
-
 ---
 
 ### Stack
