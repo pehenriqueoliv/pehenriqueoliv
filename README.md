@@ -23,21 +23,6 @@ No dia a dia trabalho com Java, Spring Boot, PostgreSQL, Docker e Git em ambient
 
 ---
 
-**Projetos em destaque**
-
-**FinanceControl V2**
-
-API REST de controle financeiro pessoal construída como laboratório de infraestrutura back-end. Cache distribuído com Redis, mensageria assíncrona com SQS + Dead Letter Queue, gestão de credenciais via AWS Secrets Manager, observabilidade com Prometheus + Grafana. Toda a infraestrutura AWS simulada localmente via LocalStack.
-
-Stack: Java 21, Spring Boot 3.5, PostgreSQL, Redis, AWS SQS, AWS Secrets Manager, Prometheus, Grafana, Docker Compose, LocalStack.
-
-**FinanceControl V1**
-
-Primeira versão da API de controle financeiro. CRUD completo de usuários, categorias e transações, com paginação, filtros, cálculo de balanço, validação via Bean Validation, exception handling global e documentação automática via Swagger. Cobertura de testes com JUnit 5 e Mockito.
-
-Stack: Java 21, Spring Boot, PostgreSQL, JPA/Hibernate, Lombok, SpringDoc OpenAPI.
-
----
 
 **Estatísticas**
 
